@@ -1,16 +1,14 @@
-### Hi there 👋
+<img align="left" height="580px" src="#"/>
 
-<!--
-**dev-edward/dev-edward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="right">
+Olá, eu sou o Edward!
+</h1>
 
-Here are some ideas to get you started:
+- Sou estudante no curso de ADS da Unip.
+- Atualmente trabalho na àrea de TI(suporte) mas pretendo seguir a àrea de desenvolvimento.
+- Freelancer no tempo livre.
+- Viciado em Valorant e Mobile Legends, mesmo sendo ruim :c
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tecnologias que estudo:
+
+[![Blog](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](www.google.com)
