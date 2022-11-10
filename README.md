@@ -5,7 +5,7 @@
 Olá, eu sou o Edward!
 </h1>
 
-- Sou estudante no curso de ADS da Unip.
+- Sou estudante no curso de ADS na Unip.
 - Atualmente trabalho na àrea de TI(suporte) mas pretendo seguir a àrea de desenvolvimento/segurança.
 - Freelancer no tempo livre.
 - Viciado em Valorant e Mobile Legends, mesmo sendo ruim :c
