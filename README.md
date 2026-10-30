@@ -5,8 +5,8 @@
 Olá, eu sou o Edward!
 </h1>
 
-- Me formei em Analise e Desenvolvimento de Sistemas Unip.
-- Atualmente trabalho na àrea de TI(suporte) mas pretendo seguir a àrea de desenvolvimento/segurança.
+- Formado em Analise e Desenvolvimento de Sistemas na Unip.
+- Atualmente trabalho como Analista de Sistemas e pretendo seguir na área de desenvolvimento/segurança.
 - Freelancer no tempo livre.
 - Gosto de jogos competitivos
 
